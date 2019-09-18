@@ -2,6 +2,6 @@
 
 class Shoe
   
-  def initi
+  def initialize
   
 end
