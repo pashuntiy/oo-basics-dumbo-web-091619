@@ -4,13 +4,16 @@ class Book
     @titel = title
   end
   
+  def genre
+    @genre
+  end
+  
   def title
     @title
   end
   
-  def author= author
-    @author = author
+  def genre
+    @genre
   end
   
 end
-
